@@ -1,1 +1,3 @@
 FROM n8nio/n8n
+
+ENV QUEUE_MODE=FALSE
